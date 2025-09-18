@@ -7,9 +7,13 @@ This repo is my personal learning space where I document everything I practice w
 ## 📌 What you’ll find here
 
 ✍️ Daily/Weekly practice notes
+
 💻 Python code snippets & exercises
+
 🧩 Solutions to beginner & intermediate problems
+
 📚 Learning resources, tips, and references
+
 🗂️ Well-structured files to track my progress
 
 ## 🎯 Goal
