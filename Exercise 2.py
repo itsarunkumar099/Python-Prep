@@ -1,4 +1,4 @@
-# Exercise 2: Write a Python program to get the current time in hours, minutes, seconds and timezone
+# Exercise 2: Write a Python program to get the current time in hours, minutes, seconds and timezone.
 # and to display a message based on the time of day.
 
 import time
