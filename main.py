@@ -96,7 +96,7 @@
 # str1 = "Welcome to the world of Python"
 # print(str1.center(50))
 # print(len(str1))            # Just to show the length of the string
-# print(len(str1.center(50))) #Just to show the length of the centered string
+# print(len(str1.center(50))) #Just to show the length of the centered string.
 
 # str1 = "Hello World, Hello Python, Hello Universe"
 # print(str1.count("Hello"))  # Counts the occurrences of "Hello"
