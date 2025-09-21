@@ -1,5 +1,4 @@
 # ~Exercise 3~
-
 print("Welcome to KBC")
 print("You will be asked 15 questions")
 questions = [
