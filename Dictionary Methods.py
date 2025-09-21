@@ -11,7 +11,7 @@ print(ep1)
 # ep1.pop(123) # Removing item with key 123
 # print(ep1)
 
-# ep1.popitem() # Removing and returning an arbitrary item
+# ep1.popitem() # Removing and returning an arbitrary items
 # print(ep1)
 
 # del ep1
