@@ -1,4 +1,4 @@
-# write a python program to translate a message into secret code language. Use the rules below to trsanslate normal english into secreat code language.
+# write a python program to translate a message into secret code language. Use the rules below to trsanslate normal english into secreat code language
 
 # Codeing:
 # If the word contains atleast 3 characters, remove the first letter and append it at the end now alppend three random chatacters at the starting and the end.
