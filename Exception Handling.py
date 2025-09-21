@@ -15,7 +15,7 @@ print("End of the program")
 
 try:
     num = int(input("Enter a number: "))
-    a = [6,3]                                   # List with two elements
+    a = [6,3]                                   # List with two elements.
     print(a[num])                               # Accessing element at index num
 except ValueError:
     print("Number entered is not an integer.")  # Handling ValueError
