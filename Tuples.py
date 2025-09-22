@@ -1,4 +1,5 @@
 # ~Tuples~
+
 tup = (1, 2, 3, 4, 5)
 print(type(tup), tup) # This is a tuple
 
@@ -24,4 +25,5 @@ if 5 in tup:
     print("5 is present in the tuple")
 tup2 = tup[1:4]
 print(tup2) # Slicing the tuple to get elements from index 1 to 3
+
 print(tup[1:-1]) # Slicing the tuple to get elements from index 1 to the second last element
