@@ -1,4 +1,5 @@
 # ~For Loops~
+
 name = "Arun Kumar" # Iterates through each character in the string
 for i in name:
     print(i)
@@ -19,4 +20,5 @@ for k in range(1, 11): # Generates numbers from 1 to 10
     print(k)
 
 for k in range (1, 12, 3): # Generates numbers from 1 to 11 with a step of 3
+
     print(k)
