@@ -1,4 +1,5 @@
 # ~Enumerate Function~
+
 marks = [12, 15, 20, 1, 80, 70, 30, 25]
 
 index = 0             # Initializing index
