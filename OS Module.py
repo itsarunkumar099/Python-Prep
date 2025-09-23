@@ -1,4 +1,5 @@
 # ~OS module~
+
 import os  # Importing the os module to interact with the operating system
 
 if (not os.path.exists("data")): # Checking if the "data" directory does not exist
