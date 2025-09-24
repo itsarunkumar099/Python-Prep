@@ -1,4 +1,5 @@
 # ~List~
+
 marks = [10, 20, 30, "Arun", "Tarun"]
 print("Marks:", marks) 
 print("Length of Marks:", len(marks))
