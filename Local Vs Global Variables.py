@@ -1,4 +1,5 @@
 # ~Local Vs Global Variables~
+
 x = 4
 print(x)
 
