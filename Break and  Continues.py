@@ -1,4 +1,5 @@
 # ~Break and Continues~
+
 for i in range(15):
     if (i == 10):
         break  # Breaks the loop when i is 10
