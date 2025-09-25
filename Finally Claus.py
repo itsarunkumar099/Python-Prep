@@ -1,4 +1,5 @@
 # ~Finally Claus~
+
 def func1():
     try:
         l = [1, 2, 3, 4, 5]
@@ -14,3 +15,4 @@ def func1():
 x = func1()     
 
 print(x)
+
