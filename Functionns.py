@@ -1,4 +1,5 @@
 # ~Functions~
+
 a = 9
 b = 8
 if (a > b):
@@ -45,4 +46,5 @@ gmean(c, d)
 e = 3
 f = 5
 isGreater(e, f)
+
 gmean(e, f)
