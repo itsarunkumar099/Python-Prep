@@ -1,4 +1,5 @@
 # ~Dictionaries~
+
 dic = {"Arun": "Human Being",
        "Spoon": "Object"}
 print(dic["Arun"]) # Accessing value using key
