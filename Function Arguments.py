@@ -1,4 +1,5 @@
 #  ~Function Arguments~
+
 def average(a, b):
     print("The Average is: ", (a+b)/2)
    
@@ -43,5 +44,6 @@ name("Ravi", "Gupta")
 
 def name(**name):
     print("Hello, ", name["fnmae"], name["mname"], name["lname"])
+
 
 name(mname = "Kumar", lname = "Singh", fnmae = "Arun")
