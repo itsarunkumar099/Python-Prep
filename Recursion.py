@@ -1,4 +1,5 @@
 # ~Recursion~
+
 def factorial(n):
     if (n == 1 or n == 0):
         return 1
@@ -31,4 +32,5 @@ print(fibonacci(6)) # 8 is f(5) + f(4) => 5 + 3
 print(fibonacci(7)) # 13 is f(6) + f(5) => 8 + 5
 print(fibonacci(8)) # 21 is f(7) + f(6) => 13 + 8
 print(fibonacci(9)) # 34 is f(8) + f(7) => 21 + 13
+
 print(fibonacci(10)) # 55 is f(9) + f(8) => 34 + 21 
