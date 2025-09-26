@@ -1,4 +1,5 @@
 # ~String Slicing~
+
 name = "Arun Kumar"
 ArunKumar = len(name)
 print(ArunKumar)
