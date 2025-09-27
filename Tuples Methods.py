@@ -1,4 +1,5 @@
 # ~Operation on Tuples~
+
 countries = ("India", "USA", "UK", "Germany", "France")
 temp = list(countries) # Converting tuple to list
 temp.append("Italy") # Adding an element to the list
@@ -30,4 +31,5 @@ res = len(tuple1) # Finding the length of the tuple
 print("Length of the tuple:", res)
 
 res = sorted(tuple1) # Sorting the tuple (returns a list)
+
 print("Sorted tuple:", res) 
