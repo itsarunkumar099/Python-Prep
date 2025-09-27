@@ -1,4 +1,5 @@
 # ~for Loop with else~
+
 for  i in range(5):  # Loop will run from 0 to 4
     print(i)
 else:
@@ -29,4 +30,5 @@ for x in range(5):
     print("interation no {} in for loop".format(x+1))
 else:
     print("else block in loop")
+
 print("Out of for loop")
