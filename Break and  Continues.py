@@ -2,7 +2,7 @@
 
 for i in range(15):
     if (i == 10):
-        break  # Breaks the loop when i is 10
+        break  # Breaks the loop when i is 10.
     print("5 X ", i + 1, "=", 5 * (i + 1))
 print("Loop ended")
 
