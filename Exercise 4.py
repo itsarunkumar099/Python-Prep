@@ -6,7 +6,7 @@
 # simply revese the SyntaxWarning
 
 # Decoding:
-# If the word contains less than 3 characters, reverse it
+# If the word contains less than 3 characters, reverse it.
 # else:
 # remove 3 random characters from start and end. Now the last letter and append it to the beginning.
 
