@@ -11,7 +11,8 @@ for mark in marks:    # Iterating through the list.
 
 # OR
 
-for index, mark in enumerate(marks):  # Using enumerate to get index and value  
+for index, mark in enumerate(marks):  # Using enumerate to get index and value.  
     print(mark)
     if(index==4):                     # Checking if index is 4
         print("awesome")
+
