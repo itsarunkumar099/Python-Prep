@@ -12,7 +12,7 @@ dic = {
     105: "Tarun"
 }
 
-print(dic[101]) # Accessing value using key 
+print(dic[101]) # Accessing value using key. 
 print(dic[103]) # Accessing value using key
 
 info ={'name': "Arun Kumar",
@@ -35,3 +35,4 @@ for key, value in info.items(): # Iterating through key-value pairs
     
 
 print(info.values()) # Getting all values
+
