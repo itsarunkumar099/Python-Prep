@@ -13,7 +13,7 @@ dic = {
 }
 
 print(dic[101]) # Accessing value using key. 
-print(dic[103]) # Accessing value using key
+print(dic[103]) # Accessing value using key.
 
 info ={'name': "Arun Kumar",
        'age': 22, 
