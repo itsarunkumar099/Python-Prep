@@ -7,7 +7,7 @@ for mark in marks:    # Iterating through the list.
     print(mark)
     if(index==4):
         print("awesome")
-    index += 1        # Incrementing index
+    index += 1        # Incrementing index.
 
 # OR
 
