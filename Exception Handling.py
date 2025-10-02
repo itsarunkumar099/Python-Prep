@@ -2,7 +2,7 @@
 
 a = input("Enter a number: ")
 print(f"Multiplication table of {a} is:")
-try:                                        # Try block to catch exceptions
+try:                                        # Try block to catch exceptions.
     for i in range(1, 11):                  # Loop from 1 to 10
         print(f"{int(a)} X {i} = {int(a)*i}")
 except:                                     # Except block to handle exceptions
