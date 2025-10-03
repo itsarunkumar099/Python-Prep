@@ -2,7 +2,7 @@
 
 dic = {"Arun": "Human Being",
        "Spoon": "Object"}
-print(dic["Arun"]) # Accessing value using key.
+print(dic["Arun"]) # Accessing value using key
 
 dic = {
     101: "Arun",
@@ -12,8 +12,8 @@ dic = {
     105: "Tarun"
 }
 
-print(dic[101]) # Accessing value using key. 
-print(dic[103]) # Accessing value using key.
+print(dic[101]) # Accessing value using key 
+print(dic[103]) # Accessing value using key
 
 info ={'name': "Arun Kumar",
        'age': 22, 
@@ -35,4 +35,5 @@ for key, value in info.items(): # Iterating through key-value pairs
     
 
 print(info.values()) # Getting all values
+
 
