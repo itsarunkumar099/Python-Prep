@@ -2,7 +2,7 @@
 
 marks = [12, 15, 20, 1, 80, 70, 30, 25]
 
-index = 0             # Initializing index
+index = 0             # Initializing index.
 for mark in marks:    # Iterating through the list
     print(mark)
     if(index==4):
