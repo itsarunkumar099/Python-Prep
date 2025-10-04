@@ -2,7 +2,7 @@
 
 dic = {"Arun": "Human Being",
        "Spoon": "Object"}
-print(dic["Arun"]) # Accessing value using key
+print(dic["Arun"]) # Accessing value using key.
 
 dic = {
     101: "Arun",
